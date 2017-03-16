@@ -47,7 +47,7 @@ government-service	hostname	government-organisation	start-date	end-date
 1084	mot-testing	EA570		
 1105	paydvlafine	EA570		
 1110	personalisedvehicleregistration	EA570		
-1034	consular-appointments			
+1034	consular-appointments	D13		
 1019	catchreturn	EA199		
 1057	flood-warning-information	EA199		
 1061	get-fishing-licence	EA199		
