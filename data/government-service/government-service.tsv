@@ -28,8 +28,8 @@ government-service	hostname	government-organisation	start-date	end-date
 1059	get-disability-work-support	D10		
 1124	report-benefit-fraud	D10		
 1148	universalcredit	D10		
-1123	renewable-heat-calculator	D11		
-1051	energy-saving-home-improvement-fund	D11		
+1123	renewable-heat-calculator	D1198		
+1051	energy-saving-home-improvement-fund	D1198		
 1017	buysellvehicle	EA74		
 1021	check-mot	EA74		
 1046	driving-medical-condition	EA74		
